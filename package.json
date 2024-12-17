@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@bryntum/gantt": "^6.1.4",
+    "@bryntum/gantt-vue": "^6.1.4",
     "core-js": "^3.8.3",
     "vue": "^2.6.14"
   },

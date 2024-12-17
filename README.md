@@ -12,10 +12,16 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Installation
 
-Install the bryntum packages
+Install the bryntum packages (Licensed)
 
 ```shell
 npm install @bryntum/gantt @bryntum/gantt-vue
+```
+
+Trial:
+
+```shell
+npm install @bryntum/gantt@npm:@bryntum/gantt-trial @bryntum/gantt-vue-2
 ```
 
 ## Setting up structure
